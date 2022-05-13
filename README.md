@@ -85,6 +85,10 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 webpmux -version
 ```
 
+## Deployment 📝
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
+
 ## Donate
 - [Saweria](https://saweria.co/ramlanid)
 
